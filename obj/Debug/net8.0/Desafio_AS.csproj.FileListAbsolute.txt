@@ -1,0 +1,28 @@
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\Desafio_AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\Desafio_AS.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\Desafio_AS.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\Desafio_AS.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\bin\Debug\net8.0\Desafio_AS.exe
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\bin\Debug\net8.0\Desafio_AS.deps.json
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\bin\Debug\net8.0\Desafio_AS.runtimeconfig.json
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\bin\Debug\net8.0\Desafio_AS.dll
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\bin\Debug\net8.0\Desafio_AS.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\Desafio_AS.dll
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\refint\Desafio_AS.dll
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\Desafio_AS.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\Desafio_AS.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Área de Trabalho\Desafio Final\Desafio_AS\obj\Debug\net8.0\ref\Desafio_AS.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\bin\Debug\net8.0\Desafio_AS.exe
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\bin\Debug\net8.0\Desafio_AS.deps.json
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\bin\Debug\net8.0\Desafio_AS.runtimeconfig.json
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\bin\Debug\net8.0\Desafio_AS.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\bin\Debug\net8.0\Desafio_AS.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\Desafio_AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\Desafio_AS.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\Desafio_AS.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\Desafio_AS.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\Desafio_AS.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\refint\Desafio_AS.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\Desafio_AS.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\Desafio_AS.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratorio_de_Programacao_Desafio-main\obj\Debug\net8.0\ref\Desafio_AS.dll
